@@ -1,0 +1,8 @@
+Lighthouse AI kernel patch as applied to Qualcomm open source kernel
+
+1 - Setup instructions to download and build AOSP including kernel can be found here:
+https://developer.qualcomm.com/qfile/28828/lm80-p0436-2_sw-build-and-install_gd_linux_android_rev_d.pdf
+
+2 - Manifest used to build kernel used on Lighthouse AI camera is LA.BR.1.2.4-01810-8x16.0.xml
+
+3 - Lighthouse changes are contained in lighthouse_kernel.patch
